@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Shubham Rajesh Saroj</h1>
+<h1 align="center">Hi 👋, I'm Shubham Rajesh Saroj</h1>
 <h3 align="center">I am a MERN full stack web developer and Android app developer, specializing in Java. I have strong expertise in data structures and algorithms (DSA), and I’m also an avid chess player, enjoying the strategic challenges it offers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrsaroj&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrsaroj" /> </p>
