@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Rajesh Saroj</h1>
 <h3 align="center">I am a MERN full stack web developer and Android app developer, specializing in Java. I have strong expertise in data structures and algorithms (DSA), and I’m also an avid chess player, enjoying the strategic challenges it offers.</h3>
-<img width ="1000px" height="500px" 
- src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqdTBrd2gxdTJoc2Y3OXY1bHBmMDdjbDd4dmRkNmd0ZXVteWF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
+<img width ="1000px" height="200px" 
+ src ="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrsaroj&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrsaroj" /> </p>
 
