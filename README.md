@@ -26,6 +26,7 @@
 ## 🎯 Current Endeavors
 
 - 🔭 Building a robust **E-Commerce Website** using MERN stack
+- 🔭 Building a robust **Job Portal** using MERN stack
 - 🌱 Deepening expertise in **Node.js, MongoDB, React.js & React Native**
 - 👨‍💻 All my projects are available at my [GitHub Portfolio](https://github.com/shubhamrsaroj)
 - ⚡ Fun fact: *"I apply chess strategies to problem-solving in code - always thinking several moves ahead!"*
