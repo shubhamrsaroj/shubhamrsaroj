@@ -10,12 +10,12 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-ShubhamSaroj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-saroj109/)](https://www.linkedin.com/in/shubham-saroj109/)
-  [![Gmail Badge](https://img.shields.io/badge/-shubhamrsaroj229-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shubhamrsaroj229@gmail.com)](mailto:shubhamrsaroj229@gmail.com)
-  [![GeeksForGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/shubhamrsaroj229)](https://auth.geeksforgeeks.org/user/shubhamrsaroj229)
- [![Coding Ninjas Badge](https://img.shields.io/badge/-Coding%20Ninjas-F27F34?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVR4nO2SPyxDURjFf7UgKbHW2Ew6NBEJIbGYMNZisDKUtmoSkYiFxIJBhMFiQULCgEgkFhJhqK2l/rTahkhIWLS9Ojo8sXjN+3qDj3hyznfvOd+5XwKRsj17PA4cNQEz+PF5BUyE43FKhQLn+TzZXI5CsUjd8wAoAYGwAQYHEgkmx8YEG6YpOJNOi04mk4KNWEz+kAvN6bSS1G7bonVdcSYSUfniwgIAZ4AZ9KsbuFPr6tTCpFdQcqtFyfOxo5HQf4Al33UxLUtwKBwWbOv6nwEAQ4ODOLYtxeXlZcHj8/OBAQCGnW66nQ5Vz6NULlMslThOpcSrV+cqrVVjAMuNBtVq9ZsVfM8Dz/sR4NaqVABWjSRv19c8Xl3xVKtxl8sRWl0VryvgADgEHho+3wEEEeecJRabpgAAAABJRU5ErkJggg==&logoColor=white&link=https://www.naukri.com/code360/profile/shubhamrsaroj)](https://www.naukri.com/code360/profile/shubhamrsaroj)
+[![Linkedin Badge](https://img.shields.io/badge/-ShubhamSaroj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-saroj109/)](https://www.linkedin.com/in/shubham-saroj109/) 
+[![Gmail Badge](https://img.shields.io/badge/-shubhamrsaroj229-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shubhamrsaroj229@gmail.com)](mailto:shubhamrsaroj229@gmail.com) 
+[![GeeksForGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/shubhamrsaroj229)](https://auth.geeksforgeeks.org/user/shubhamrsaroj229) 
+[![Coding Ninjas Badge](https://img.shields.io/badge/-Coding%20Ninjas-F27F34?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVR4nO2SPyxDURjFf7UgKbHW2Ew6NBEJIbGYMNZisDKUtmoSkYiFxIJBhMFiQULCgEgkFhJhqK2l/rTahkhIWLS9Ojo8sXjN+3qDj3hyznfvOd+5XwKRsj17PA4cNQEz+PF5BUyE43FKhQLn+TzZXI5CsUjd8wAoAYGwAQYHEgkmx8YEG6YpOJNOi04mk4KNWEz+kAvN6bSS1G7bonVdcSYSUfniwgIAZ4AZ9KsbuFPr6tTCpFdQcqtFyfOxo5HQf4Al33UxLUtwKBwWbOv6nwEAQ4ODOLYtxeXlZcHj8/OBAQCGnW66nQ5Vz6NULlMslThOpcSrV+cqrVVjAMuNBtVq9ZsVfM8Dz/sR4NaqVABWjSRv19c8Xl3xVKtxl8sRWl0VryvgADgEHho+3wEEEeecJRabpgAAAABJRU5ErkJggg==&logoColor=white&link=https://www.naukri.com/code360/profile/shubhamrsaroj)](https://www.naukri.com/code360/profile/shubhamrsaroj) 
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/u/theWhiteDevGod/)](https://leetcode.com/u/theWhiteDevGod/)
 
-  
 </div>
 
 <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="400px" height="300px" align="right">
@@ -35,13 +35,13 @@
 
 <div align="center">
 
-| Domain | Technologies |
-|--------|--------------|
+| Domain                | Technologies                                                                                                                                                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Frontend Development** | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend Development** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
+| **Backend Development** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
+| **App Development**    | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Dev Tools**          | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-| **App Development** | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
